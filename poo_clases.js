@@ -29,7 +29,7 @@ function crearUsuario() {
     // Agrega un método al Constructor del `prototype`
     // El método debe llamarse "saludar" y debe devolver la string "Hello World!"
     // Tu código:
-    Constructor.prototype.saludar = funcion () {
+    Constructor.prototype.saludar = funcion ();{ 
       return "Hello World";
     }
   }
